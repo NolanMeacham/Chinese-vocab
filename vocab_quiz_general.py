@@ -11,7 +11,7 @@ def main():
 
     file = input('Enter the filename for the vocab quiz: ')
     print()
-    vocab = loadtxt(file, dtype=str, delimiter=',')
+    vocab = loadtxt(f'vocab_files/{file}', dtype=str, delimiter=',')
     quiz1 = Vocab_quiz(vocab)
 
     # start the quiz
