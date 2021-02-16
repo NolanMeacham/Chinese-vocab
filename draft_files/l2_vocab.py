@@ -17,7 +17,7 @@ print()
 # check to see if the input matches the answer key
 # display correct or incorrect message
 
-for vocab words 1 through 7
+# for vocab words 1 through 7
 for index, word in enumerate(vocab1to7):
     check = input(f'{index+1}. {word}: ')
     if check.lower() == answer1to7[index]:
