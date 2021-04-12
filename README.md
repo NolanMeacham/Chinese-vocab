@@ -4,7 +4,7 @@ each word correctly?
 
 ## Getting Started
 Make sure you have Python 3.8.0 or newer and the numpy library. 
-You can install Arcade by opening a terminal and running the following command.
+You can install numpy by opening a terminal and running the following command.
 ```
 pip3 install numpy
 ```
