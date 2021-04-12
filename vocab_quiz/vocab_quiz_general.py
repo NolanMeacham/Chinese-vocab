@@ -17,8 +17,7 @@ def main():
     quiz1 = Vocab_quiz(vocab)
 
     # open the file and read in each line.
-    # vocab_file = f'vocab_files/lesson{lesson}_vocab.txt'
-    # with open()
+    # # with open()
 
     # start the quiz
     quiz1.start_quiz()
