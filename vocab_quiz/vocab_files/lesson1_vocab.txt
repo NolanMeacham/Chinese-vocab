@@ -1,14 +1,11 @@
-nǐ,you
-hǎo,good/well
-shì,to be
-xuéshēng,student
-ma,question
-wǒ,i/me
-ne,interrogative
-yě,also
-tā,he/him
-bù,not/no
-lǎoshī,teacher
-Zhōngwén,chinese
-tā,she/her
-jiàoshòu,professor
+nǐ,you,你
+hǎo,good,好
+shì,to be,是
+xuéshēng,student,学生
+ma,question word,吗
+wǒ,i/me,我
+ne,what about,呢
+yě,also,也
+tā,he/him,他
+bù,not/no,不
+lǎoshī,teacher,老师

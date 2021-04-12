@@ -1,11 +1,22 @@
-zhèngzài,indicates action in progress
-dǎ diànhuà,to make a phone call
-wéi,hello/hey
-děng yíxià,to wait for a moment
-zhīdào le,got it/to know
-xièxie,thanks
-ba,indicates assumption or suggestion
-duì,correct
-máng,busy
-kàn,to look at/to see/to watch/to read
-diànshì,television
+zhèngzài,indicates action in progress,正在
+dǎ diànhuà,to make a phone call,打电话
+wéi,hello/hey,喂
+děng yíxià,to wait for a moment,等一下
+zhīdào le,got it/to know,知道了
+xièxie,thanks,谢谢
+ba,indicates assumption or suggestion,吧
+duì,correct,对
+máng,busy,忙
+kàn,to look at/to see/to watch/to read,看
+diànshì,television,电视
+zuò,to do,做
+shàngwǎng,to be online,上网
+wǒ jiù shì,this is he/she,我就是
+wèi,polite measure word for people,位
+liúyán,to leave a message,留言
+duìbuqǐ,i'm sorry,对不起
+shénme shíhòu,when/at what time,什么时候
+huílái,to come back,回来
+wǎnshàng,evening,晚上
+yào,planning on,要
+gěi,to give,给

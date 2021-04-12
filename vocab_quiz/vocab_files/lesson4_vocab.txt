@@ -1,13 +1,13 @@
-nà,that
-shū,book
-zhè,this
-běn,measure word for bound items
-wénxué,literature
-gōngchéng,engineering
-nán,difficult
-tài,too
-kěshì,but/yet/however
-gōngkè,homework/assignment
-duō,many/much
-wǒmen,we/us
-shǎo,few/little
+nà,that,那
+shū,book,书
+zhè,this,这
+běn,measure word for books,本
+wénxué,literature,文学
+gōngchéng,engineering,工程
+nán,difficult,难
+tài,too,太
+kěshì,but/yet/however,可是
+gōngkè,homework/assignment,功课
+duō,many/much,多
+wǒmen,we/us,我们
+shǎo,few/little,少

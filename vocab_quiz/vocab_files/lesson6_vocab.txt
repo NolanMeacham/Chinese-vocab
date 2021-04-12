@@ -1,18 +1,18 @@
-jiā,home/family
-dàjiā,everyone
-cóng,from
-zài,to be at/to be in
-yī,one
-sì,four
-bàba,father
-māma,mother
-jiějie,elder sister
-gōngzuò,job/to work
-gōngchéngshī,engineer
-nánpéngyǒu,boyfriend
-méiyǒu,to not have
-liàng,measure word for vehicles
-chē,car
-zhī,measure word for some animals
-gǒu,dog
-ài,to love
+jiā,home/family,家
+dàjiā,everyone,大家
+cóng,from,从
+zài,to be at/to be in,在
+yī,one,一
+sì,four,四
+bàba,father,爸爸
+māma,mother,妈妈
+jiějie,elder sister,姐姐
+gōngzuò,job/to work,工作
+gōngchéngshī,engineer,工程师
+nánpéngyǒu,boyfriend,男朋友
+méiyǒu,to not have,没有
+liàng,measure word for vehicles,辆
+chē,car,车
+zhī,measure word for some animals,只
+gǒu,dog,狗
+ài,to love,爱

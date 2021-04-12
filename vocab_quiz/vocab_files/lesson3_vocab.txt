@@ -1,14 +1,14 @@
-nǎ,which
-guó,country
-rén,person
-hěn,very/quite
-duìle,by the way
-Fǎguó,France
-Měiguó,United States
-Yīngguó,Britain
-Zhōngguó,China
-shuō,to speak
-huì,to know how to
-yìdiǎn,a little
-Fǎwén,French (language)
-hé,and
+nǎ,which,哪
+guó,country,国
+rén,person,人
+hěn,very/quite,很
+duìle,by the way,对了
+Fǎguó,France,法国
+Měiguó,United States,美国
+Yīngguó,Britain,英国
+Zhōngguó,China,中国
+shuō,to speak,说
+huì,to know how to,会
+yìdiǎn,a little,一点
+Fǎwén,French (language),法文
+hé,and,和

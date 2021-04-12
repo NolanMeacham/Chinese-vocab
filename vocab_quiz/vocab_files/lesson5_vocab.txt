@@ -1,12 +1,12 @@
-péngyou,friend
-lái,to come/about to do
-jièshào,to introduce
-yíxià,indicate brief action
-shìyǒu,roommate
-yǒu,to have/there is
-jǐ,how many
-liǎng,two
-gè,measure word for people or things
-dōu,all/both
-cháng,often/frequently
-gēn,with
+péngyou,friend,朋友
+lái,to come/about to do,来
+jièshào,to introduce,介绍
+yíxià,indicate brief action,一下
+shìyǒu,roommate,室友
+yǒu,to have/there is,有
+jǐ,how many,几
+liǎng,two,两
+gè,measure word for people or things,个
+dōu,all/both,都
+cháng,often/frequently,常
+gēn,with,跟

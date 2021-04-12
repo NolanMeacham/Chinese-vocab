@@ -1,16 +1,16 @@
-rènshi,to know/to recognize
-qù,to go
-shàngkè,to attend class
-xiàkè,to end class
-yǐhòu,after/later
-shèr,matter/thing/business
-xiǎng,to want/to think
-huí,to return
-yìqǐ,together
-chīfàn,to eat/to have a meal
-cài,dish (type of food)
-jīntiān,today
-xiàcì,nex time
-zěnmeyàng,how is it
-xíng,to be all right
-zàijiàn,see you again/goodby
+rènshi,to know somebody,认识
+qù,to go,去
+shàngkè,to attend class,上课
+xiàkè,to end class,下课
+yǐhòu,after,以后
+shèr,matter/thing/business,事儿
+xiǎng,to want/to think,想
+huí,to return,回
+yìqǐ,together,一起
+chīfàn,to eat/to have a meal,吃饭
+cài,dish (type of food),菜
+jīntiān,today,今天
+xiàcì,next time,下次
+zěnmeyàng,how is it,怎么样
+xíng,to be all right,行
+zàijiàn,see you again/goodbye,再见

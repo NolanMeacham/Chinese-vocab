@@ -1,0 +1,26 @@
+měitiān,every day,每天
+bàn,half,半
+qǐchuáng,to get up,起床
+dàxué,college/university,大学
+shēnghuó,life,生活
+xuéqī,semester,学期
+mén,measure word for school courses,门
+diǎn,o'clock,点
+shuìjiào,to go to bed,睡觉
+jiù,earlier than expected,就
+cái,later than expected,才
+kè,a quarter of an hour,刻
+fēn,minute,分
+ránhòu,then/afterwards,然后
+túshūguǎn,library,图书馆
+xiàwǔ,afternoon,下午
+xǐhuān,to like,喜欢
+dǎqiú,to play ball,打球
+xiě,to write,写
+xìn,letter,信
+diànzǐ yóujiàn,email,电子邮件
+dìzhǐ,address,地址
+zhù,to wish,祝
+nián,year,年
+yuè,month,月
+rì/hào,day,日

@@ -1,13 +1,13 @@
-nín,you (polite)
-guì,honorable/expensive
-xìng,surname
-qǐng wèn,may i ask
-de,possession
-Yīngwén,english
-míngzi,name
-Zhōngwén,chinese
-jiào,called
-shénme,what
-tā,she/her
-shéi/shuí,who
-tóngxué,classmate
+nín,you (polite),您
+guì,noble/honored/expensive,贵
+xìng,surname,姓
+qǐng wèn,may i ask,请问
+de,shows possession,的
+Yīngwén,english,英文
+míngzi,name,名字
+Zhōngwén,chinese,中文
+jiào,called,叫
+shénme,what,什么
+tā,she/her,她
+shéi/shuí,who,谁
+tóngxué,classmate,同学
